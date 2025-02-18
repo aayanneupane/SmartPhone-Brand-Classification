@@ -37,7 +37,7 @@ def format_prediction_output(prediction):
 
 def load_training_data(data_dir):
     """
-    Load training images from data directory
+    Load training images from data directory with enhanced error handling
     Expected structure:
     data_dir/
         iphone/
@@ -58,6 +58,7 @@ def load_training_data(data_dir):
     logger = logging.getLogger(__name__)
 
     brands = ['iphone', 'samsung', 'pixel']  # Focus on original three brands
+    processed_counts = {brand: {'success': 0, 'failed': 0} for brand in brands}
 
     for brand in brands:
         brand_dir = Path(data_dir) / brand
@@ -71,8 +72,23 @@ def load_training_data(data_dir):
                     image_features = processor.process_image(str(img_path))
                     features.append(image_features)
                     labels.append(brand)
+                    processed_counts[brand]['success'] += 1
                 except Exception as e:
+                    processed_counts[brand]['failed'] += 1
                     logger.warning(f"Skipping {img_path}: {str(e)}")
+
+    # Log processing summary
+    logger.info("\nImage Processing Summary:")
+    total_success = 0
+    total_failed = 0
+    for brand, counts in processed_counts.items():
+        success = counts['success']
+        failed = counts['failed']
+        total_success += success
+        total_failed += failed
+        logger.info(f"{brand}: Successfully processed {success} images, Failed {failed} images")
+
+    logger.info(f"\nTotal: Successfully processed {total_success} images, Failed {total_failed} images")
 
     if not features:
         raise ValueError("No valid training images found")
