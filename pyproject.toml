@@ -4,11 +4,14 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.11"
 dependencies = [
+    "anthropic>=0.45.2",
     "beautifulsoup4>=4.13.3",
     "imageio[pyav]>=2.37.0",
+    "joblib>=1.4.2",
     "numpy>=2.2.3",
     "opencv-python>=4.11.0.86",
     "pillow>=11.1.0",
+    "psutil>=7.0.0",
     "requests>=2.32.3",
     "scikit-image>=0.25.1",
     "scikit-learn>=1.6.1",

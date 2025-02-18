@@ -2,6 +2,7 @@ import os
 import logging
 from pathlib import Path
 import numpy as np
+from collections import defaultdict
 
 def validate_image_path(image_path):
     """
@@ -18,6 +19,15 @@ def validate_image_path(image_path):
             f"Invalid file extension: {file_extension}. "
             f"Supported extensions: {', '.join(valid_extensions)}"
         )
+
+    # Additional validation for image integrity
+    try:
+        from PIL import Image
+        img = Image.open(image_path)
+        img.verify()  # Verify image integrity
+        return True
+    except Exception as e:
+        raise ValueError(f"Invalid or corrupted image file: {str(e)}")
 
 def format_prediction_output(prediction):
     """
@@ -37,18 +47,7 @@ def format_prediction_output(prediction):
 
 def load_training_data(data_dir):
     """
-    Load training images from data directory with enhanced error handling
-    Expected structure:
-    data_dir/
-        iphone/
-            image1.jpg
-            image2.jpg
-        samsung/
-            image1.jpg
-            image2.jpg
-        pixel/
-            image1.jpg
-            image2.jpg
+    Load training images from data directory with batch processing
     """
     from image_processor import ImageProcessor
 
@@ -57,8 +56,10 @@ def load_training_data(data_dir):
     labels = []
     logger = logging.getLogger(__name__)
 
-    brands = ['iphone', 'samsung', 'pixel']  # Focus on original three brands
-    processed_counts = {brand: {'success': 0, 'failed': 0} for brand in brands}
+    brands = ['iphone', 'samsung', 'pixel']
+    processed_counts = defaultdict(lambda: {'success': 0, 'failed': 0})
+    batch_size = 8  # Process images in batches for better performance
+    max_images_per_brand = 50  # Limit number of images per brand for balanced training
 
     for brand in brands:
         brand_dir = Path(data_dir) / brand
@@ -66,16 +67,33 @@ def load_training_data(data_dir):
             raise ValueError(f"Training directory for {brand} not found: {brand_dir}")
 
         logger.info(f"Loading {brand} images...")
+
+        # Pre-validate images before processing
+        valid_images = []
         for img_path in brand_dir.glob('*'):
             if img_path.suffix.lower() in ['.jpg', '.jpeg', '.png']:
                 try:
-                    image_features = processor.process_image(str(img_path))
-                    features.append(image_features)
-                    labels.append(brand)
-                    processed_counts[brand]['success'] += 1
+                    if validate_image_path(str(img_path)):
+                        valid_images.append(str(img_path))
+                        if len(valid_images) >= max_images_per_brand:
+                            break
                 except Exception as e:
+                    logger.warning(f"Skipping invalid image {img_path}: {str(e)}")
                     processed_counts[brand]['failed'] += 1
-                    logger.warning(f"Skipping {img_path}: {str(e)}")
+                    continue
+
+        # Process valid images in batches
+        for i in range(0, len(valid_images), batch_size):
+            batch_paths = valid_images[i:i + batch_size]
+            try:
+                # Process batch of images in parallel
+                batch_features = processor.process_images_batch(batch_paths)
+                features.extend(batch_features)
+                labels.extend([brand] * len(batch_features))
+                processed_counts[brand]['success'] += len(batch_features)
+            except Exception as e:
+                processed_counts[brand]['failed'] += len(batch_paths)
+                logger.warning(f"Error processing batch for {brand}: {str(e)}")
 
     # Log processing summary
     logger.info("\nImage Processing Summary:")
