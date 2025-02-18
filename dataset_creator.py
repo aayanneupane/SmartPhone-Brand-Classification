@@ -10,7 +10,7 @@ import trafilatura
 def setup_dataset_directories():
     """Create directories for each smartphone brand"""
     base_dir = Path('data')
-    brands = ['iphone', 'samsung', 'pixel']
+    brands = ['iphone', 'samsung', 'pixel', 'oneplus', 'xiaomi', 'huawei']  # Added new brands
 
     for brand in brands:
         (base_dir / brand).mkdir(parents=True, exist_ok=True)
@@ -36,9 +36,19 @@ def download_image(url, save_path, headers=None):
                 # Check file size before saving
                 content_length = int(response.headers.get('content-length', 0))
                 if content_length > 5000:  # Minimum 5KB to avoid thumbnails
-                    with open(file_path, 'wb') as f:
-                        f.write(response.content)
-                    return True
+                    # Verify image can be opened before saving
+                    import io
+                    from PIL import Image
+                    try:
+                        img = Image.open(io.BytesIO(response.content))
+                        if img.size[0] > 100 and img.size[1] > 100:  # Ensure minimum dimensions
+                            img.verify()  # Verify image integrity
+                            img = Image.open(io.BytesIO(response.content))  # Reopen after verify
+                            img.save(file_path, 'JPEG')  # Convert to JPEG format
+                            return True
+                    except Exception as e:
+                        logging.warning(f"Invalid image from {url}: {str(e)}")
+                        return False
                 logging.warning(f"Skipping small image from {url}")
                 return False
 
@@ -91,6 +101,18 @@ def create_dataset():
         'pixel': [
             'https://www.gsmarena.com/google-phones-107.php',
             'https://www.phonearena.com/phones/manufacturers/Google'
+        ],
+        'oneplus': [
+            'https://www.gsmarena.com/oneplus-phones-95.php',
+            'https://www.phonearena.com/phones/manufacturers/OnePlus'
+        ],
+        'xiaomi': [
+            'https://www.gsmarena.com/xiaomi-phones-80.php',
+            'https://www.phonearena.com/phones/manufacturers/Xiaomi'
+        ],
+        'huawei': [
+            'https://www.gsmarena.com/huawei-phones-58.php',
+            'https://www.phonearena.com/phones/manufacturers/Huawei'
         ]
     }
 
@@ -116,13 +138,13 @@ def create_dataset():
                 print(f"Found {len(image_urls)} potential images on {url}")
 
                 for img_url in image_urls:
-                    if count >= 50:  # Reduced from 170 to 50 images per brand
+                    if count >= 50:  # 50 images per brand for balanced dataset
                         break
 
                     if download_image(img_url, save_dir, headers):
                         count += 1
                         print(f"Downloaded {count} images for {brand}")
-                        time.sleep(0.5)  # Reduced from 1.5s to 0.5s
+                        time.sleep(0.5)  # Reduced delay to speed up collection
 
                 if count >= 50:
                     print(f"Completed downloading {count} images for {brand}")

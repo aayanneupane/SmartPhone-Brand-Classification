@@ -57,7 +57,7 @@ def load_training_data(data_dir):
     labels = []
     logger = logging.getLogger(__name__)
 
-    brands = ['iphone', 'samsung', 'pixel']
+    brands = ['iphone', 'samsung', 'pixel']  # Focus on original three brands
 
     for brand in brands:
         brand_dir = Path(data_dir) / brand
