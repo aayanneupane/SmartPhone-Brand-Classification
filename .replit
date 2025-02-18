@@ -1,0 +1,51 @@
+modules = ["python-3.11"]
+
+[nix]
+channel = "stable-24_05"
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Smartphone Classifier"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Train Model"
+
+[[workflows.workflow]]
+name = "Smartphone Classifier"
+author = "agent"
+
+[workflows.workflow.metadata]
+agentRequireRestartOnSave = false
+
+[[workflows.workflow.tasks]]
+task = "packager.installForAll"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python main.py --predict data/samsung/073f4a59ad.jpg"
+
+[[workflows.workflow]]
+name = "Train Model"
+author = "agent"
+
+[workflows.workflow.metadata]
+agentRequireRestartOnSave = false
+
+[[workflows.workflow.tasks]]
+task = "packager.installForAll"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python main.py --train data"
+
+[deployment]
+run = ["sh", "-c", "python main.py --predict data/samsung/073f4a59ad.jpg"]
