@@ -1,0 +1,58 @@
+{
+  "total_images": 832,
+  "splits": {
+    "train": 580,
+    "val": 122,
+    "test": 130
+  },
+  "brands": {
+    "iphone": {
+      "total": 163,
+      "splits": {
+        "train": 114,
+        "val": 24,
+        "test": 25
+      }
+    },
+    "samsung": {
+      "total": 141,
+      "splits": {
+        "train": 98,
+        "val": 21,
+        "test": 22
+      }
+    },
+    "pixel": {
+      "total": 118,
+      "splits": {
+        "train": 82,
+        "val": 17,
+        "test": 19
+      }
+    },
+    "oneplus": {
+      "total": 135,
+      "splits": {
+        "train": 94,
+        "val": 20,
+        "test": 21
+      }
+    },
+    "xiaomi": {
+      "total": 156,
+      "splits": {
+        "train": 109,
+        "val": 23,
+        "test": 24
+      }
+    },
+    "huawei": {
+      "total": 119,
+      "splits": {
+        "train": 83,
+        "val": 17,
+        "test": 19
+      }
+    }
+  }
+}

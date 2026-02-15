@@ -1,0 +1,8337 @@
+{
+  "dataset_info": {
+    "name": "Smartphone Brand Classification Dataset",
+    "version": "1.0",
+    "description": "A curated dataset of smartphone images for brand classification",
+    "classes": [
+      "iphone",
+      "samsung",
+      "pixel",
+      "oneplus",
+      "xiaomi",
+      "huawei"
+    ]
+  },
+  "images": {
+    "iphone_535df7a1cb.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_6cb2ea264d.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_824292206e.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_aa09916ba5.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_5ff2f7f5c2.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_3d0cf23d0b.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_b229b93d17.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_cb8fb08088.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_e402d9377d.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_e027cad9d3.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_403e766a5c.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_757910b56d.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_9b20fe10a1.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_08299300b1.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a26e79d2b1.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_4b6589c2ee.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_f4a79f989f.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_02984848ff.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 320,
+        "height": 240,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_6b8fe55677.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_b0abdcb050.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_2e38b48552.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_d5902b5c8a.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_8dc2c53427.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 184,
+        "height": 111,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_99a761f1d7.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_0e355abb1b.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_395d1f6759.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_2475d589e0.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_fdadedcdb5.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_500f352c38.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_1f028c5d53.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_5d71311a47.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_732727be84.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 320,
+        "height": 240,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a6e7e3c4f0.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_9dc79c36bc.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_2a75a51703.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_6a3200b0b7.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_144e0872b5.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a3a0f11f54.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_3b0704ccce.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_8d8994ce92.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_99b4f6f07c.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_75b0edacdb.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_50041c768b.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_92d8e337f2.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_4d0caccfe1.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_7845032a1f.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_6641e119e8.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_1da40920da.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_d58c0ffdb4.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 159,
+        "height": 17,
+        "mode": "RGBA",
+        "format": "PNG"
+      }
+    },
+    "iphone_b66a0795b0.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_840231ce61.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_fb485283c3.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 130,
+        "height": 98,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_154927462d.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_8b222ecf42.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_0914df3d08.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_f75269cc1b.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_7b37bab8d8.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_f35271dce2.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_8d9d07191a.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_3a427fc72e.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_fe7002efd8.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_2a12c535e5.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_e8277bddfd.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_8a00bee232.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 795,
+        "height": 800,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_48e23318d8.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 206,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_d4642cf640.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_f22974e612.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_c8716f5445.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a82004f6fb.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_aa5aef49ed.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_0daaf04c79.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_1c73ce3999.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_d603ee104d.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_59fc00d252.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_02c0ca33f6.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_f174881f7e.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_dc8af13bfb.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_5c31936614.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_3103b58ed6.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_6443b25854.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_e92d6e704c.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a340100c4d.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_944e8187cf.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_02465340a8.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_10ca503447.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_301da2b081.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a4a380b95b.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_0a22779ce8.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_05e38c18da.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_6dcd3c4784.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 345,
+        "height": 250,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_22c75eb1b1.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_57deb7498d.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_29dd2d70d6.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_b8f1cf17b1.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_3a600b0d6f.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_c62187f04e.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_1a68587476.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_2d65978651.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_38a380be93.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a9229a923a.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_64e1f5918f.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_7a5ff5c5aa.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_25f708a588.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a37c3344df.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_9f97ad523e.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_d851ace177.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_9ebc07e2b1.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_6c63b258f9.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a388c27d07.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 147,
+        "height": 180,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_0bc32d183c.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_aa6b984ac5.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_686a8c04f9.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_b77d3e125f.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_ee38a8f7e2.jpg": {
+      "split": "train",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_4996683659.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 320,
+        "height": 240,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_b936730e9c.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a0f66ac631.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_9b55a378f8.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_ccfab87aed.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_2a7a63e781.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_95abceaf61.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 124,
+        "height": 180,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_62b989859c.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_0bfa5bf8ca.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a8d549c281.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a450ae2e94.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_31cf4fa1b0.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_d12549228c.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a189a3df1e.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_6e85198509.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_d84fafdfbb.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_c7968c6b5c.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_77b0cbfbcb.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_9834a99163.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_cc35ee2110.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_d8f1ebb1a4.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_bdd8ce019d.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_613f82c524.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_462d1c66c9.jpg": {
+      "split": "val",
+      "brand": "iphone",
+      "metadata": {
+        "width": 240,
+        "height": 180,
+        "mode": "RGBA",
+        "format": "PNG"
+      }
+    },
+    "iphone_6fd5531d65.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_acf9ce84c3.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_5f753ecf78.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 184,
+        "height": 111,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_94b183e51d.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_fd8bb56a30.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_84f9588edf.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_c39b0cfda2.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_838c514d22.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_71c9a11355.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_2191b58d4f.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_3f601bf5f3.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_059bb1c09b.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_4bf7fcbbf6.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_8d0607a71f.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_478b5e6082.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_baf51e5ebe.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_a619a3ddfe.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_0942ca37c3.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_9208a06c88.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_5a77f3e82e.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_ff9f54c4c7.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_0c16becc53.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_da3bad0109.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_15968c6f2b.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "iphone_e544b4c802.jpg": {
+      "split": "test",
+      "brand": "iphone",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2f22005b3c.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a3e6a94217.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_d1c0c052fc.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_32a503190a.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_ee98814788.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_bd94b6effc.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2ff35f386f.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_112e92d698.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_fc960ce18b.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a68679b3c1.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_f73d3f6351.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_60ad176762.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_b01c20d2e3.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_9978d83a2b.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2102122767.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_9a8e34bfdb.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_57b2da4c3e.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 233,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2c87dc7128.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a0c8659b79.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_16b5e4cdcc.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_ffe37ca061.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2b6e9b94bb.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2f606526af.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_0055510c60.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_e704609590.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_3ca960ab09.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_291a35e232.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_c2b733ac9b.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_3140d8a5be.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_980b24db13.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_6d3483749e.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_86b17e2604.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2797f43e1c.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_ddd22cb773.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_edaa35f8d9.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_d9b890484a.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_eebc20d45e.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_9ae187702c.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_424b3c9052.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2c4b2b5687.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_e2a0c985c2.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_41f61945bf.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_72ae634d07.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2f003bbb91.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_53e72c71ee.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_260b695525.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_19926e7e58.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_dacbb236aa.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_4c9d2ebc26.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a63d8eb32a.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_19589da940.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_3a05284354.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_4cfadf3e87.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_e1c171b424.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2d65978651.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_44b6ae67b7.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_1f99318629.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_0942ca37c3.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_748bd2cc00.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_5d71311a47.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_ee28f6797e.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_8fc9f8a9db.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_ee9859ef08.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_bbbf7b9474.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_35bc3fcebd.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_dc8af13bfb.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_7ca6a52174.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_34c3176588.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_8e2f5ec31d.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_97a7499360.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_72c88672c3.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_9950921ac0.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_c509bc4ad1.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2ac3cf7d07.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_126f5df681.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_4d2dcdab33.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_20f750c927.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a5d2d1881e.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_af66d1db75.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_073f4a59ad.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_d8f1ebb1a4.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_50041c768b.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_ee51179fe6.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a337cab8c5.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_f92f241640.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a842f95abc.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_74ffe530c7.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_34ae4c7df0.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_669dd46e37.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_6b15c2b4a6.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_58f608d701.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_50c7810128.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_0bc32d183c.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_cac7eaca6f.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_c8716f5445.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_4c756b51a6.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a0270e1621.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_253a274ec7.jpg": {
+      "split": "train",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_ff2da01cd1.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_91106bd853.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_d58c0ffdb4.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 159,
+        "height": 17,
+        "mode": "RGBA",
+        "format": "PNG"
+      }
+    },
+    "samsung_7c1a458e6d.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_9cfc2ba4a9.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2d1a0ede14.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_7652289594.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_8f037395f8.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a872382f46.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_c511989bf4.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_e93a4b82d6.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_d174e5b65b.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_c7968c6b5c.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_50750243a3.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_5f671c1943.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_15361a3f95.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_eb9e7c716c.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_c1a7a22fd4.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_936375afcc.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_b08c19fd26.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2202ab0215.jpg": {
+      "split": "val",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a5c7869d3e.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_6f9851fae4.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_0e355abb1b.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a7740ce9ba.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_54c87f4d2f.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_59ea102ab4.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_92461d7751.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_d2f80a84df.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_29ea28d485.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_83eb9f33b6.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_33558613f4.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a664142edb.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a3a0f11f54.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_acc95e930b.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_e15ce5bbb4.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_a2d9b5c073.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_e7fa0dc5b0.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_e2e8bef2b2.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_d2ff6c928f.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_2dc72ad3c3.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_f35271dce2.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "samsung_9bf5b76ce2.jpg": {
+      "split": "test",
+      "brand": "samsung",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_819503436e.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_1de237c53b.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_d84e642338.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_9867a2a59f.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_a48a077770.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_4f98ec2fd9.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_3c4c3e53ee.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_6e936ae49b.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_a3a0f11f54.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_c6397132f5.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_3d8da375bb.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_c1760dc51f.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_8ba5669b71.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_aeb11db20e.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_550d8b5f38.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_9daad8f560.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_5d71311a47.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_944e8187cf.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_0e763fa557.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_bdc5d00be7.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_9a7492622f.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_989d3e2d6b.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_0df068e02b.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_d56e81d68d.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_3b0704ccce.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_4d0f6645dd.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_c34b388586.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_f1d2a45b5e.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_f7f9aa85d7.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_9074166fe0.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_eb8614fd9c.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_74ffe530c7.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_bd296b3891.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_36bd448621.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_edc0ad261b.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_b32676e6c6.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_ad477feaf9.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_3b95728c3c.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_c8716f5445.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_3f780c7af1.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_9a280f0e4b.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_c723ce6e8a.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_c91cf248ae.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_77dc353e0e.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_2ae052488a.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_6cb2ea264d.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_8bade82b7a.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_7d57fee949.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_de8d48c059.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_5403e3b975.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_936375afcc.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_31e45abdda.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_a619a3ddfe.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_7174965494.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_d58c0ffdb4.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 159,
+        "height": 17,
+        "mode": "RGBA",
+        "format": "PNG"
+      }
+    },
+    "pixel_d2bd800580.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_0bf65e679f.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_4091bafd25.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_6e0c986d49.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_cecc16601b.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_e44ed359ef.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_7505ddd752.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_30106a1a6a.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_fd854d24ec.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_6a8c5695b5.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_8d8994ce92.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_c7968c6b5c.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_e1c74efafb.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_d3e9ecc121.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_2975a7af90.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_0bc32d183c.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_bca95bd2d6.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_098b97ce39.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_9ac8ad63d7.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_f54c51c094.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_630792e2d4.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_5593ecdf3f.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_d86458755a.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_d20fb4e373.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_ebb13938ca.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_2a9817f571.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_e613939d33.jpg": {
+      "split": "train",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_b3d6e306f2.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_cc2c280e7e.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_37066ef8f3.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_c69c9b5aae.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_a4e62faf08.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_b5d71044d1.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_9d3bbf6156.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_1539a5759b.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_f35271dce2.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_a82004f6fb.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_fb6cc07d56.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_ee0a70d525.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_9cfc2ba4a9.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_7dbd185c24.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_62941a55f1.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_b55b9accd7.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_8ec560fc84.jpg": {
+      "split": "val",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_83809e5d79.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_a337cab8c5.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_36676f125e.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_495a9fca04.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_e402d9377d.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_8d9d07191a.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_938eea6917.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_0a22adf3fb.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_f1daec385d.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_0deba18801.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_08299300b1.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_e15ce5bbb4.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_83ff0fe4a8.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_57e6ed17a8.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_5a99369fd2.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_71c9a11355.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_64aa1e3dcc.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_0a22779ce8.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "pixel_a450ae2e94.jpg": {
+      "split": "test",
+      "brand": "pixel",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_7a098e3751.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_df9f6c3811.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_15d5dd4f20.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d1f62c5ac6.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_b444b9e587.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_8e240d047b.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_c08ba00a5f.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_a2b6b9b2fd.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_5cddee24c6.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_83057a548f.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_bc42b8ab1b.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d55d30ee00.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_cbc2c932cc.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_7631675546.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_f4c65f4e9e.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_c589072119.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_533e928c45.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_dd051f4ca0.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_0abb13394c.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_e666c2cbc7.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_6fc1d15ad8.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_f8de52ef17.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_3a139285a3.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d55301eaf9.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_373063c717.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_e15ce5bbb4.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_45312a5a5b.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_c8716f5445.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_1f80bc33fc.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_0e6cb6481e.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_feb4103e17.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d8e02a779e.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_f35271dce2.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_6f17cd4d29.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_624fd37000.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_745d57c051.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d9a3a208f5.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_c16524be29.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_4841030dad.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_200c817600.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_0a84a2a79f.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_3273ff3367.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_c8e5ce2971.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_47bf27976c.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_f230d2c6f4.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d8f1ebb1a4.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_9989937e08.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_054aacd2bb.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_de4be78c2f.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_e7da6d947f.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_96565fc0f6.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_4c4303be54.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_15cb5dea17.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_4a85fe2d6f.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_ecebed6d2d.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_e4d357249f.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_5ea38fd7d4.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_6b3cd05a17.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_2d65978651.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_514d233d77.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_f442edd07a.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_a619a3ddfe.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_dc6deb3e08.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_62941a55f1.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_f27ba60484.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_468a1c121f.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_0a22779ce8.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_36d3928655.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_7639d031d5.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d49082e65e.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_7dd60daaa7.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_47f4f89659.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_c980c8a64b.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_0a22adf3fb.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_aa1b98e362.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_e41ebcc710.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_5d71311a47.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_56a790914c.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_0d71ea2af3.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_1ada9d10ac.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_44ced62a39.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_899025d95d.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_a49b8fd5bb.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_bb5c6c4cc3.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_1d166988bc.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_da03f3ec0e.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_3d6299eb56.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_91852c70d6.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d58c0ffdb4.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 159,
+        "height": 17,
+        "mode": "RGBA",
+        "format": "PNG"
+      }
+    },
+    "oneplus_33e3dfadd1.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_3b0704ccce.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_ac04532cd6.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_64f54f02ce.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_e35a5fd999.jpg": {
+      "split": "train",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_3a62c32377.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_c653927225.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_57833002d6.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_a413cc2fd7.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_df2c9a7801.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_11c59a2d5c.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d7a3dd8d30.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_3180c6927c.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_6595a4600e.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_b55b9accd7.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_7505ddd752.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_0916d4c68e.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_9c5f524c14.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_8d8994ce92.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_cdb394dbf3.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_67c3c425d6.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_141204a96b.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_b0f1752043.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_bcfd3502e6.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_46828ea90d.jpg": {
+      "split": "val",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d70792f2f8.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_746ffe98cd.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_c073b0be93.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 454,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d3922e1b64.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_45917b2edf.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_158d26445f.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_5b4f9cf040.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_579071a1b4.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_b72aa596ff.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_c86ea3d6c4.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_8ea1eb1900.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_b0fe6f7254.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_704e1715e3.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_0e670d90d6.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d86458755a.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_ed220fdfe2.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_cce80b67c4.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_90819e0920.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_aa052d676a.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_d2336f70e5.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "oneplus_9cfc2ba4a9.jpg": {
+      "split": "test",
+      "brand": "oneplus",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_c44d31eefd.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_a164daaf33.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_9aee7dfdab.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_7f4162e1ed.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_d625e6f2b1.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_696c74434a.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_ca2c33ca0d.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_7fc3f377a4.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_875926b43e.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_d534368b84.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_cefee8f8aa.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_f53325c944.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_19ea07dee3.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_626723e74f.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_4fdd080867.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_3f601bf5f3.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_d49082e65e.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_198503c0e1.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_e696be0750.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_cea2e2b681.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_a8203e7cb3.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_a039891e00.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 210,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_e17fe1cc16.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_dc0628321a.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_6e513b2bb8.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_c8716f5445.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_da2a3c7a4f.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_32fb5f82e6.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_e1d333a362.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_1a3051143f.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_ad18330c46.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_2765b3e198.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_f69750c5be.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_aabc629cb2.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_dff13df682.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_e3ea790a30.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_49e5fc9b45.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_14a2fe4801.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_89c52185dc.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_65baba9e3d.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_8650f44d08.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_d008d0a93b.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_912ab190c6.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_8bd9d9d809.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_93bcee72e3.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_3b0704ccce.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_dc06bf7a60.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_74110867c0.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_484dfa25c4.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_c077ecc5e6.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_994e073be5.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_4e78c664f8.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_317b8ea8db.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_4a69e25526.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_3353cc8d92.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_47eb340895.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_4613455f11.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_11d44a3da1.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_c7968c6b5c.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_e948540e55.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_e64ceebd3c.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_6df0e455de.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_0e029d0924.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_15702dc10e.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_d8972b8c5c.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_71c9a11355.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_18988ebdef.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_86d21ddf54.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_cec485c3dd.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_f35271dce2.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_354b73a11c.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_77c58b120f.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_d78758ed88.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_f6661bd593.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_0a22779ce8.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_4f1af62692.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_b0ed9c859b.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_be775b2c88.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_aa40ebd183.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_8d8994ce92.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_61b1304978.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_bf570363d4.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_8a8351dbcc.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_237fc1ba52.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_21572c6521.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_1eb20aa4ce.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_820f5c6f98.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_fa6ae3aa67.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_9ca854599c.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_f5250fe354.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_a619a3ddfe.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_f010eec213.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_47d2a46813.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_f37b21bdec.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_a450ae2e94.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_9003ef8eb7.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_77df2b27a2.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_86403fabd5.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_5aa307e829.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_80553f1931.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_26c7eca198.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_ce1745ae66.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_2a469b7429.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_e1797a1363.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_558fac5916.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_c385f41a9c.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_95dd580f26.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_6f6303f12a.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_7905fb7112.jpg": {
+      "split": "train",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_48b521c300.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_c451e44ce8.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_9d9aa96941.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_bda24e4d42.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_261429c422.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_a5068d8269.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_611f3deb88.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_05217daaec.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_76e005106b.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 350,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_61eac4f1e9.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_2f0ee6dee5.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_cc5c1852c4.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_6e3026fbda.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_d85d690eac.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_168d8733e7.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_40871c7f60.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_32c9ceda83.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_95d2228556.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_b7d6d66660.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_4f7af9f168.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_b02915c09b.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_1e5c1c42f8.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_aea7987e82.jpg": {
+      "split": "val",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_944e8187cf.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_6428a85887.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_274f292c02.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_d128baf46c.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_53520a1a0e.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_16717e0821.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_4b10a69593.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_07726492c8.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_e7cc72632d.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_c100332e1b.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_037b7cfc0d.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_d0cb2820c9.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_480d8280e3.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_beed000ebb.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_9e4cf464f6.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_4d161b1057.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_3da3509959.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_54779c02a4.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_d58c0ffdb4.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 159,
+        "height": 17,
+        "mode": "RGBA",
+        "format": "PNG"
+      }
+    },
+    "xiaomi_06435b6cde.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_ae49e0f82c.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_6cb2ea264d.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_9777cce378.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "xiaomi_7b706c4ede.jpg": {
+      "split": "test",
+      "brand": "xiaomi",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_7455277a63.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 350,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_b9df47cff9.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_905fd2bc23.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_f7b72fff9f.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_ce73ba77b5.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_c26bc91bd1.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_e4fb05b7ae.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_0719f3039a.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_fe19717894.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_d74e4539bb.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_6e3e89e405.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_60a7e4e247.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_1aaf28e324.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_3c5384afb8.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_e6cbebf5b9.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_da66a94335.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_bcd2b293f9.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 350,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_d2842fe632.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_8d029f7487.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_a0d65b0247.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_7735cee9a9.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_c6e395a358.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_1e9e9e93ac.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_0235c72de2.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_6df31ec423.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_f7ad11edd9.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_d3ef97df76.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_26668de67c.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_b7c220c1de.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_e4a5a8e636.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_df448bf370.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_ab4cb8b7f7.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_47ea47f5d9.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_d58c0ffdb4.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 159,
+        "height": 17,
+        "mode": "RGBA",
+        "format": "PNG"
+      }
+    },
+    "huawei_b67901783e.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_763ee14c67.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_8dd8f169c3.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_c0ac221eb1.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_1eb1bfed18.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_7fbe58c6f4.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_ba44485300.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_d123105b6f.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_035bf40c38.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_1fe1965c4c.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_ec84015f5b.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_49cf0a4f71.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_6d45de0797.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_cb679d8c9c.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_afef7f7c63.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_d11c9a4d02.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 350,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_3b2b6dd10d.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_dcf8f029e1.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_3a9dcab94f.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_a4f230615e.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_0a4244cd9a.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_9691224e13.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_f65cb2e6f6.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_514c73e99e.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_92c576aeab.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_a6dfed86ca.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 513,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_c734a0b461.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_058825a7ad.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_56c7d7df0d.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_e2041967bd.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_cfe41be6fd.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 350,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_fb0ed831ff.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_6c0beb46d3.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 350,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_42f10fd6b5.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_68e9026baa.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 1220,
+        "height": 526,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_11c37675a2.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_33221cf0b4.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_deeed8ab9d.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_6a7fdbb681.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_7bf22cefd1.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_945a08efdb.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_ab567244f0.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_a434ea1260.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_28fe0ceb58.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_918044a3ba.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_92ae018804.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 350,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_0203e475f0.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_4321182df2.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_00f73c2e35.jpg": {
+      "split": "train",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_c5027aef8b.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_8635fb7702.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_aa59b0ebef.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_7b420df130.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_0b692e4e5f.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 350,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_86fdf9876a.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_5dff995ccf.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_240291a1ad.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_8fc88f1ed7.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_368e0ea24d.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_a549b2c4a1.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_f17d5f2206.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_96725e7712.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_4118129f5a.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_9da658a110.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_adc5e52db5.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_0e198a005f.jpg": {
+      "split": "val",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_8543941f67.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_46d80ad0a6.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_9df6c45472.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_317230853a.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_74bc20498a.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_4b1d429355.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_6b45cd63b2.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 347,
+        "height": 151,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_9445f1b395.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_8b5db75c1a.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_a8bab9ad96.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_00e02c0954.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_7d81b616ca.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_6eebe6550a.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 350,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_cb69e571e0.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_4972d2c7ad.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_8b70a4ddfa.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 455,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_e150777e8b.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_7ab613d045.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 350,
+        "height": 456,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    },
+    "huawei_7b14e915f3.jpg": {
+      "split": "test",
+      "brand": "huawei",
+      "metadata": {
+        "width": 160,
+        "height": 212,
+        "mode": "RGB",
+        "format": "JPEG"
+      }
+    }
+  }
+}
